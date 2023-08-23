@@ -1,4 +1,4 @@
-![logo](https://github.com/DhananjayaLakshan/DhananjayaLakshan/blob/main/banner.png)
+<!--![logo](https://github.com/DhananjayaLakshan/DhananjayaLakshan/blob/main/banner.png)!-->
 <h1 align="center">Hi 👋, I'm Dhananjaya Lakshan</h1>
 <h3 align="center">I'm interested in front-end and back-end development. I'm from Sri Lanka.</h3>
 
