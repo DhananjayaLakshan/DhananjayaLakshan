@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjayalakshan&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjayalakshan" /> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack** and **Kotlin for Android app developing**
+- 🌱 I’m currently learning **MERN Stack, Kotlin for Android app developing** and **Python**
 
 - 📫 How to reach me **dhananjayalakshan@gmail.com**
 
