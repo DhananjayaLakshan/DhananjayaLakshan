@@ -1,12 +1,12 @@
-<h1 align="center"><b>Hi , I'm Dhananjaya Lakshan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- <h1 align="center"><b>Hi , I'm Dhananjaya Lakshan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
     <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile&hearts;++;Self-taught+Full-Stack+Developer,;Software+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile&hearts;++;Self-taught+Full-Stack+Developer,;Software+Engineering+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a> -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br> -->
 
 ![GitHub followers](https://img.shields.io/github/followers/DhananjayaLakshan?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/DhananjayaLakshan?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DhananjayaLakshan.repoName) <img src="https://komarev.com/ghpvc/?username=DhananjayaLakshan" alt="DhananjayaLakshan" />
 
