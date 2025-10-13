@@ -20,7 +20,7 @@
 	<a href="www.youtube.com/@dhananajayalakshan2274"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
 	
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- ## 🙋‍♀️ Let's Connect
 <p align="center">
   <a href="https://main--dhananjayalakshan.netlify.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
@@ -87,7 +87,7 @@ I am a final-year **Software Engineering Undergraduate** at the Sri Lanka Instit
   <picture><img src = "https://github.com/DhananjayaLakshan/skill-icons/blob/main/Bootstrap.svg" width = 50px></picture>
   <picture><img src = "https://github.com/DhananjayaLakshan/skill-icons/blob/main/Figma-Dark.svg" width = 50px></picture>
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
  <p  align="center">
