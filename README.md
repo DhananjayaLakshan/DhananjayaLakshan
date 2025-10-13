@@ -75,6 +75,7 @@ I am a final-year **Software Engineering Undergraduate** at the Sri Lanka Instit
   <picture><img src = "https://github.com/DhananjayaLakshan/skill-icons/blob/main/NodeJS-Dark.svg" width = 50px></picture>
   <picture><img src = "https://github.com/DhananjayaLakshan/skill-icons/blob/main/ExpressJS-Dark.svg" width = 50px></picture>
   <picture><img src = "https://github.com/DhananjayaLakshan/skill-icons/blob/main/PHP-Dark.svg" width = 50px></picture>
+  <picture><img src = "https://github.com/DhananjayaLakshan/skill-icons/blob/main/Laravel-Dark.svg" width = 50px></picture>
   <picture><img src = "https://github.com/DhananjayaLakshan/skill-icons/blob/main/Wordpress.svg" width = 50px></picture>
   <picture><img src = "https://github.com/DhananjayaLakshan/skill-icons/blob/main/Java-Dark.svg" width = 50px></picture>
   <picture><img src = "https://github.com/DhananjayaLakshan/skill-icons/blob/main/Kotlin-Dark.svg" width = 50px></picture>
