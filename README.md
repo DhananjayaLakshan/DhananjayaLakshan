@@ -133,6 +133,7 @@ I am a final-year **Software Engineering Undergraduate** at the Sri Lanka Instit
 
 [![ITMEGA](https://img.shields.io/badge/ITMEGA_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://www.itmega.lk/)
 [![forttune](https://img.shields.io/badge/forttune_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://forttune.lk/)
+[![taprobaneuae](https://img.shields.io/badge/taprobane%20UAE_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://taprobaneuae.com/)
 [![lionroyaltourisme](https://img.shields.io/badge/Lion%20Royal%20Tourisme_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://lionroyaltourisme.com/)
 [![acaps](https://img.shields.io/badge/ACAP%20Travels_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://acaptravels.com/)
 [![forgottencolombo](https://img.shields.io/badge/forgotten%20colombo_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://forgottencolombo.com/)
