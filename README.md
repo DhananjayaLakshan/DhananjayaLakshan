@@ -135,19 +135,22 @@ I am a final-year **Software Engineering Undergraduate** at the Sri Lanka Instit
 [![forttune](https://img.shields.io/badge/forttune_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://forttune.lk/)
 [![lionroyaltourisme](https://img.shields.io/badge/Lion%20Royal%20Tourisme_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://lionroyaltourisme.com/)
 [![acaps](https://img.shields.io/badge/ACAP%20Travels_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://acaptravels.com/)
+[![forgottencolombo](https://img.shields.io/badge/forgotten%20colombo_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://forgottencolombo.com/)
+[![The Hotel Supplier](https://img.shields.io/badge/The%20Hotel%20Supplier_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://lkmrd.com/)
+[![acgs](https://img.shields.io/badge/acgs_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://acgs.lk/)
+[![frc](https://img.shields.io/badge/frcsl_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://frcsl.org/)
+[![trunk](https://img.shields.io/badge/Trunk_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://trunksl.com/)
+[![universalfreighters](https://img.shields.io/badge/Universal%20Freighters_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://universalfreighters.com/)
 
+[![Employee System](https://img.shields.io/badge/Employee%20Visit%20&%20Asset%20Management%20System-_Repo-FF6B35?style=flat-square&logo=laravel)](https://github.com/DhananjayaLakshan/inet_system.git)
 
-
-
-[![Employee System](https://img.shields.io/badge/Employee_Management-Deploying_Soon-FF6B35?style=flat-square&logo=laravel)](#)
-[![forttune](https://img.shields.io/badge/Client_Portal-Live_Demo-007ACC?style=flat-square&logo=react)](#)
 
 
 </div>
 </div>
 
 <div>
-
+<!--
 #### 🛠️ Personal
 [![E-Commerce](https://img.shields.io/badge/E_Commerce_Platform-Live_Demo-8B5CF6?style=flat-square&logo=shoppingcart)](https://your-link.com)
 
@@ -161,7 +164,7 @@ I am a final-year **Software Engineering Undergraduate** at the Sri Lanka Instit
 
 </div>
 
-
+-->
 
 
 
