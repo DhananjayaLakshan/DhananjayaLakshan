@@ -110,6 +110,58 @@ I am a final-year **Software Engineering Undergraduate** at the Sri Lanka Instit
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  -->
 
+## 🌐 Live Projects
+
+<div align="center">
+
+### 🚀 Live Demos & Deployments
+
+</div>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; align-items: start; margin: 20px 0;">
+
+<div>
+
+#### 💼 Professional
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+	
+[![Kassapa Lion's Rock](https://img.shields.io/badge/Kassapa%20Lions%20Rock_Website-Visit_Site-007ACC?style=flat-square&logo=react)](https://kassapalionsrock.com/)	
+[![TransOrbit](https://img.shields.io/badge/TransOrbit_Website-Visit_Site-007ACC?style=flat-square&logo=react)](https://transorbitnetwork.com/)
+[![thewarehouse](https://img.shields.io/badge/The%20Warehouse_Website-Visit_Site-007ACC?style=flat-square&logo=react)](https://www.thewarehouse10.com/)
+[![sublime](https://img.shields.io/badge/Sublime%20Gems%20&%20Jewellery_Website-Visit_Site-007ACC?style=flat-square&logo=react)](https://sublime.inetslapi.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio_Website-Visit_Site-007ACC?style=flat-square&logo=netlify)](https://main--dhananjayalakshan.netlify.app/)
+
+[![ITMEGA](https://img.shields.io/badge/ITMEGA_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://www.itmega.lk/)
+[![forttune](https://img.shields.io/badge/forttune_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://forttune.lk/)
+[![lionroyaltourisme](https://img.shields.io/badge/Lion%20Royal%20Tourisme_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://lionroyaltourisme.com/)
+[![acaps](https://img.shields.io/badge/ACAP%20Travels_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://acaptravels.com/)
+
+
+
+
+[![Employee System](https://img.shields.io/badge/Employee_Management-Deploying_Soon-FF6B35?style=flat-square&logo=laravel)](#)
+[![forttune](https://img.shields.io/badge/Client_Portal-Live_Demo-007ACC?style=flat-square&logo=react)](#)
+
+
+</div>
+</div>
+
+<div>
+
+#### 🛠️ Personal
+[![E-Commerce](https://img.shields.io/badge/E_Commerce_Platform-Live_Demo-8B5CF6?style=flat-square&logo=shoppingcart)](https://your-link.com)
+
+[![Task Manager](https://img.shields.io/badge/Task_Management_App-Try_Now-06B6D4?style=flat-square&logo=checklist)](#)
+
+[![Blog CMS](https://img.shields.io/badge/Blog_Content_System-View_Demo-10B981?style=flat-square&logo=blog)](#)
+
+[![Weather App](https://img.shields.io/badge/Weather_Application-Live-F59E0B?style=flat-square&logo=cloud)](#)
+
+</div>
+
+</div>
+
+
 
 
 
