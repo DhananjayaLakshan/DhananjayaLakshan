@@ -143,6 +143,7 @@ I am a final-year **Software Engineering Undergraduate** at the Sri Lanka Instit
 [![frc](https://img.shields.io/badge/frcsl_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://frcsl.org/)
 [![trunk](https://img.shields.io/badge/Trunk_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://trunksl.com/)
 [![universalfreighters](https://img.shields.io/badge/Universal%20Freighters_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://universalfreighters.com/)
+[![iaslk.org](https://img.shields.io/badge/iaslk.org_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://iaslk.org/)
 
 [![Employee System](https://img.shields.io/badge/Employee%20Visit%20&%20Asset%20Management%20System-_Repo-FF6B35?style=flat-square&logo=laravel)](https://github.com/DhananjayaLakshan/inet_system.git)
 
