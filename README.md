@@ -12,13 +12,12 @@
 
 <p align="">
   <a href="https://main--dhananjayalakshan.netlify.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:dhananjayalakshan@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="mailto:abey.dhananjaya@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/DhananjayaLakshan"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="www.linkedin.com/in/dhananajaya-lakshan-498a041bb"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://facebook.com/dhananjaya.lakshan"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.instagram.com%2Fdhananjaya122%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR2TejYSzCiEzQeJheYtYgG8WRTV9RXPcVMYBJ-pdXxNakrUHl6XLq86LRM_aem_M2GCeSrwsO5d-iOwnNkLig&h=AT2gzMvxtZxGTikv2VV2gHBfNXYX0r5ChbUr-oU1L__GTw5BOrFU_qAGSQQXK08nRJ19-_TVID6b8dSiwwHMTKgw7unDzaeETQ33bnBkoa9JazqM6achfDfKWAWMH9SizvNv"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="www.youtube.com/@dhananajayalakshan2274"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>
-	
+	<a href="www.youtube.com/@dhananajayalakshan2274"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a>	
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- ## 🙋‍♀️ Let's Connect
@@ -33,6 +32,51 @@
 	
 </p> -->
 
+## 🌐 Live Projects
+
+<div align="center">
+
+### 🚀 Live Demos & Deployments
+
+</div>
+
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; align-items: start; margin: 20px 0;">
+
+<div>
+
+#### 💼 Professional
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+	
+[![Kassapa Lion's Rock](https://img.shields.io/badge/Kassapa%20Lions%20Rock_Website-Visit_Site-007ACC?style=flat-square&logo=react)](https://kassapalionsrock.com/)	
+[![TransOrbit](https://img.shields.io/badge/TransOrbit_Website-Visit_Site-007ACC?style=flat-square&logo=react)](https://transorbitnetwork.com/)
+[![thewarehouse](https://img.shields.io/badge/The%20Warehouse_Website-Visit_Site-007ACC?style=flat-square&logo=react)](https://www.thewarehouse10.com/)
+[![sublime](https://img.shields.io/badge/Sublime%20Gems%20&%20Jewellery_Website-Visit_Site-007ACC?style=flat-square&logo=react)](https://sublime.inetslapi.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio_Website-Visit_Site-007ACC?style=flat-square&logo=netlify)](https://main--dhananjayalakshan.netlify.app/)
+[![IWEBPortfolio](https://img.shields.io/badge/I_WEB%20Website-Visit_Site-007ACC?style=flat-square&logo=react)](https://iweb.inetsl.com/)
+
+[![ITMEGA](https://img.shields.io/badge/ITMEGA_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://www.itmega.lk/)
+[![forttune](https://img.shields.io/badge/forttune_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://forttune.lk/)
+[![taprobaneuae](https://img.shields.io/badge/taprobane%20UAE_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://taprobaneuae.com/)
+[![lionroyaltourisme](https://img.shields.io/badge/Lion%20Royal%20Tourisme_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://lionroyaltourisme.com/)
+[![acaps](https://img.shields.io/badge/ACAP%20Travels_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://acaptravels.com/)
+[![forgottencolombo](https://img.shields.io/badge/forgotten%20colombo_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://forgottencolombo.com/)
+[![The Hotel Supplier](https://img.shields.io/badge/The%20Hotel%20Supplier_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://lkmrd.com/)
+[![acgs](https://img.shields.io/badge/acgs_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://acgs.lk/)
+[![frc](https://img.shields.io/badge/frcsl_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://frcsl.org/)
+[![trunk](https://img.shields.io/badge/Trunk_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://trunksl.com/)
+[![universalfreighters](https://img.shields.io/badge/Universal%20Freighters_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://universalfreighters.com/)
+[![iaslk.org](https://img.shields.io/badge/iaslk.org_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://iaslk.org/)
+
+[![Employee System](https://img.shields.io/badge/Employee%20Visit%20&%20Asset%20Management%20System-_Repo-FF6B35?style=flat-square&logo=laravel)](https://github.com/DhananjayaLakshan/inet_system.git)
+
+
+
+</div>
+</div>
+
+<div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250">
@@ -110,49 +154,7 @@ I am a final-year **Software Engineering Undergraduate** at the Sri Lanka Instit
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>  -->
 
-## 🌐 Live Projects
 
-<div align="center">
-
-### 🚀 Live Demos & Deployments
-
-</div>
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; align-items: start; margin: 20px 0;">
-
-<div>
-
-#### 💼 Professional
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-	
-[![Kassapa Lion's Rock](https://img.shields.io/badge/Kassapa%20Lions%20Rock_Website-Visit_Site-007ACC?style=flat-square&logo=react)](https://kassapalionsrock.com/)	
-[![TransOrbit](https://img.shields.io/badge/TransOrbit_Website-Visit_Site-007ACC?style=flat-square&logo=react)](https://transorbitnetwork.com/)
-[![thewarehouse](https://img.shields.io/badge/The%20Warehouse_Website-Visit_Site-007ACC?style=flat-square&logo=react)](https://www.thewarehouse10.com/)
-[![sublime](https://img.shields.io/badge/Sublime%20Gems%20&%20Jewellery_Website-Visit_Site-007ACC?style=flat-square&logo=react)](https://sublime.inetslapi.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio_Website-Visit_Site-007ACC?style=flat-square&logo=netlify)](https://main--dhananjayalakshan.netlify.app/)
-[![IWEBPortfolio](https://img.shields.io/badge/I_WEB%20Website-Visit_Site-007ACC?style=flat-square&logo=react)](https://iweb.inetsl.com/)
-
-[![ITMEGA](https://img.shields.io/badge/ITMEGA_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://www.itmega.lk/)
-[![forttune](https://img.shields.io/badge/forttune_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://forttune.lk/)
-[![taprobaneuae](https://img.shields.io/badge/taprobane%20UAE_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://taprobaneuae.com/)
-[![lionroyaltourisme](https://img.shields.io/badge/Lion%20Royal%20Tourisme_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://lionroyaltourisme.com/)
-[![acaps](https://img.shields.io/badge/ACAP%20Travels_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://acaptravels.com/)
-[![forgottencolombo](https://img.shields.io/badge/forgotten%20colombo_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://forgottencolombo.com/)
-[![The Hotel Supplier](https://img.shields.io/badge/The%20Hotel%20Supplier_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://lkmrd.com/)
-[![acgs](https://img.shields.io/badge/acgs_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://acgs.lk/)
-[![frc](https://img.shields.io/badge/frcsl_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://frcsl.org/)
-[![trunk](https://img.shields.io/badge/Trunk_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://trunksl.com/)
-[![universalfreighters](https://img.shields.io/badge/Universal%20Freighters_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://universalfreighters.com/)
-[![iaslk.org](https://img.shields.io/badge/iaslk.org_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://iaslk.org/)
-
-[![Employee System](https://img.shields.io/badge/Employee%20Visit%20&%20Asset%20Management%20System-_Repo-FF6B35?style=flat-square&logo=laravel)](https://github.com/DhananjayaLakshan/inet_system.git)
-
-
-
-</div>
-</div>
-
-<div>
 <!--
 #### 🛠️ Personal
 [![E-Commerce](https://img.shields.io/badge/E_Commerce_Platform-Live_Demo-8B5CF6?style=flat-square&logo=shoppingcart)](https://your-link.com)
