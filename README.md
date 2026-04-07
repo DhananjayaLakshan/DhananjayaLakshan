@@ -53,6 +53,8 @@
 [![sublime](https://img.shields.io/badge/Sublime%20Gems%20&%20Jewellery_Website-Visit_Site-007ACC?style=flat-square&logo=react)](https://sublime.inetslapi.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio_Website-Visit_Site-007ACC?style=flat-square&logo=netlify)](https://main--dhananjayalakshan.netlify.app/)
 [![IWEBPortfolio](https://img.shields.io/badge/I_WEB%20Website-Visit_Site-007ACC?style=flat-square&logo=react)](https://iweb.inetsl.com/)
+[![IWEBPortfolio](https://img.shields.io/badge/INET%20TechCare_WEB%20Website-Visit_Site-007ACC?style=flat-square&logo=react)](https://techcare.lk/)
+[![IWEBPortfolio](https://img.shields.io/badge/INET%20Support_System%20Website-Visit_Site-007ACC?style=flat-square&logo=react)](https://support.inetsl.com/)
 
 [![ITMEGA](https://img.shields.io/badge/ITMEGA_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://www.itmega.lk/)
 [![forttune](https://img.shields.io/badge/forttune_Website-Visit%20Site-007ACC?style=flat-square&logo=wordpress)](https://forttune.lk/)
